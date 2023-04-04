@@ -19,5 +19,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicerotcs/servo-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cicerotcs/servo-app/issues"
+  },
+  "homepage": "https://github.com/cicerotcs/servo-app#readme"
 }
